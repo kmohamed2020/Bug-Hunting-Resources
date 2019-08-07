@@ -1,0 +1,42 @@
+
+- Web Application Vulnerability detection & exploitation (Arabic):
+https://www.youtube.com/playlist…
+.
+- Based on Authentication Bypass: 
+https://authlab.digi.ninja/Bypass
+.
+- IP Address Based: 
+https://authlab.digi.ninja/Bypass
+.
+- Timing/side-channel Attacks: 
+https://authlab.digi.ninja/Timing
+.
+- JWT : 
+https://authlab.digi.ninja/Leaky_JWT
+.
+- Based on CVE-2019-7644: 
+.https://authlab.digi.ninja/Auth1
+.
+- Web Socket Exploitation : 
+https://ws.digi.ninja/
+.
+- LDAPi lab : 
+https://vulndap.digi.ninja/
+.
+- NoSQLi lab : 
+https://digi.ninja/projects/nosqli_lab.php
+.
+- Testing SQLi, XSS, CSRF, ... etc:
+http://www.vulnweb.com/
+.
+- Learning & testing web application vulnerabilities :
+https://portswigger.net/web-security
+.
+- Web Application Pentesting courses & videos :
+https://hackingresources.com/web-application-penetration-t…/
+.
+- Free Web Application Pentesing Arabic course (Beginners) :
+https://www.technawi.net/%d8%af%d9%88%d8%b1%d8%a9-%d8%a7%d…/
+.
+- Web Application Testing labs :
+https://www.pentesterlab.com/exercises
