@@ -1,0 +1,52 @@
+.
+.
+
++ Hacking Bible : https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+.
++ WAF Bypassing Techniques : https://github.com/0xInfection/Awesome-WAF
+.
++ Book of Bug Bounty Tips : https://gowsundar.gitbook.io/book-of-bugbounty-tips/
+.
++ Bug bounty write-ups : https://pentester.land/list-of-bug-bounty-writeups.html
+.
++ BUG BOUNTY HUNTING GUIDE : 
+https://medium.com/…/bug-bounty-hunting-methodology-toolkit…
+.
++ Bug Bounty Reference : 
+https://github.com/ngalongc/bug-bounty-reference
+.
++ Guide to Basic Recon :
+https://blog.securitybreached.org/…/guide-to-basic-recon-f…/
+.
++ Bug Bounty Slack Archives : 
+https://bugbountyworld.com/slack-archives/
+.
++ Getting started in Bug Bounty : 
+https://medium.com/…/getting-started-in-bug-bounty-7052da28…
+.
++ Web Application Penetration Testing Notes : 
+https://techvomit.net/web-application-penetration-testing-…/
+.
++ Penetration Test Guide : 
+https://github.com/Voorivex/pentest-guide
+.
++ The book of secret knowledge :
+https://github.com/trimstray/the-book-of-secret-knowledge
+.
++ Pentesting Compilation :
+https://github.com/adon90/pentest_compilation
+.
++ BugBounty Reader : 
+https://bugreader.com/
+.
++ RedTeam Guide :
+https://ired.team/
+.
++ Awesome BugBounty reference :
+https://github.com/djadmin/awesome-bug-bounty
+.
++ Hackerone Writeup Directory :
+http://h1.nobbd.de/
+.
++ Web Bug Hunting Notes :
+https://www59.zippyshare.com/v/iMR42GcL/file.htm
