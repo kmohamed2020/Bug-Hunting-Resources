@@ -1,0 +1,149 @@
+Guides] :
+
+1. Ebrahim Hegazy = http://security4arabs.com/…/how-to-start-in-webapps-securi…/
+
+2. Mohamed Abd Elbaset = https://seekurity.com/…/your-start-guide-to-web-applicatio…/
+
+3. Youssef Mohamed =
+
+https://generaleg0x01.com/2019/06/27/websec-roadmap/
+
+4. Mohamed Gamal Cyber Security Posts Parts = https://pastebin.com/cj9FEuEB…
+
+5. PentesterLab Bootcamp = https://pentesterlab.com/bootcamp
+
+6. How to Learn Penetration Testing = https://www.explainhownow.com/20…/learn-penetration-testing/
+
+7. How to Build a Cybersecurity Career = https://danielmiessler.com/…/build-successful-infosec-care…/
+
+8. How to become a pentester = https://www.corelan.be/…/2…/10/13/how-to-become-a-pentester/
+
+9. Hacker to Security Pro! = https://hackernoon.com/how-to-become-a-hacker-e0530a355cad
+
+10. Getting started in Bug Bounty = https://medium.com/…/getting-started-in-bug-bounty-7052da28…
+
+11. Bug Bounty Hunting (Methodology, Toolkit ,Tips) = https://medium.com/…/bug-bounty-hunting-methodology-toolkit…
+
+12. Web Application Penetration Testing Course = https://hackingresources.com/web-application-penetration-t…/
+
+13. How to become a Bug Bounty Hunter = https://forum.bugcrowd.com/t/researcher-resources-how-…/1102
+
+14. So You Want To Be a Pentester? = https://jhalon.github.io/becoming-a-pentester/
+
+15. Khlaed Hassan = https://www.facebook.com/KhaledAzrail/posts/1990575721051240
+
+16. So you want to be a web security researcher? = https://portswigger.net/…/so-you-want-to-be-a-web-security-…
+
+[Learn] :
+
+1.Owasp = https://www.owasp.org/index.php/Main_Page
+
+2.Knowledge Base Entersoft = http://kb.entersoft.co.in
+
+3.Hacker 101 = https://www.hacker101.com
+
+4.Bigcrowd Universty = https://www.bugcrowd.com/hackers/bugcrowd-university
+
+5. Web Security Academy = https://portswigger.net/web-security
+
+6. infosec institute = https://resources.infosecinstitute.com
+
+7. Hacksplaining = https://www.hacksplaining.com/lessons
+
+8. Security Idiots = http://www.securityidiots.com
+
+9. Metasploit Unleashed =
+
+https://www.offensive-security.com/metasploit-unleashed
+
+10. OWASP Cheat sheet = https://cheatsheetseries.owasp.org
+
+11. Hacker Tube = https://hackertube.io
+
+12. Security Online = https://securityonline.info
+
+13. Pentest Standard = http://www.pentest-standard.org/index.php/Main_Page
+
+14.AppSecWiki = https://appsecwiki.com
+
+15.Security Idiots = http://www.securityidiots.com
+
+16. Red Teaming Experiments = https://ired.team
+
+17. SANS Cyber Aces Online Tutorials = https://tutorials.cyberaces.org/tutorials.html
+
+18. Web Applicatiob Penetration Testing Notes =
+
+https://techvomit.net/web-application-penetration-testing-…/
+
+19. Web Application Security Testing Resources = https://danielmiessler.com/pro…/webappsec_testing_resources/
+
+20. Infosec Write-ups = https://medium.com/bugbountywriteup
+
+[Recon] :
+
+1. How To Do Your Reconnaissance = https://medium.com/…/guide-to-basic-recon-bug-bounties-reco…
+
+2. My Guide to Basic Recon? = https://blog.securitybreached.org/…/guide-to-basic-recon-f…/
+
+3. Recon — my way = https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21
+
+4. Pentester Land Recon resources = https://pentester.land/cheatsheets/…/15/recon-resources.html
+
+5. Compilation of recon workflows = https://pentester.land/…/compilation-of-recon-workflows.html
+
+6. Ultimate Dirty Recon Methods = https://bugbountytuts.files.wordpress.com/…/dirty-recon-1.p…
+
+7. The Power of Automatiton And Recon (Mohammed Eldeeb) = https://drive.google.com/…/1-63Y2qdW3PcddrwKwcTEz7Qrj…/view…
+
+[Writeups] :
+
+1. the unofficial HackerOne disclosure timeline = http://h1.nobbd.de/
+
+2. BugReader = https://bugreader.com/
+
+3. Bug Bounty Reference = https://github.com/ngalongc/bug-bounty-reference
+
+4. Bugbountynotes = https://www.bugbountynotes.com/writeups
+
+5. Pentester Land = https://pentester.land/list-of-bug-bounty-writeups.html
+
+6. BugCrowd Write-ups = https://forum.bugcrowd.com/t/researcher-resources-boun…/1137
+
+7. Reddit Netsec = https://www.reddit.com/r/netsec/
+
+8. Bug Bounty World Slack Archive = https://bugbountyworld.com/slack-archives/
+
+[Platforms] :
+
+1. Hacker1 = https://www.hackerone.com/
+
+2. BugCrow
+
+d = https://www.bugcrowd.com/
+
+3. Synack = https://www.synack.com/
+
+4. Zerocopter = https://www.zerocopter.com/
+
+5. Cobalt = https://cobalt.io/
+
+6. Hackenproof = https://www.hackenproof.com/
+
+7.Yeswehack = https://www.yeswehack.com
+
+8. AntiHack = https://www.antihack.me/programs
+
+9. Japan Bug bounty = https://bugbounty.jp
+
+10. intigriti = https://www.intigriti.com/public/
+
+[Books] :
+
+1. Breaking into Information Security
+
+2. Black Hat Python
+
+3. Bug Hunter's Diary
+
+4. Web Applicatio
